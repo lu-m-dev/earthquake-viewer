@@ -1,6 +1,9 @@
 # Earthquake Viewer
 Visualize real-world geographical data on a 3D textured globe.
 
+## Demo
+<img src="./demo.gif" alt="game demo" style="width: 80%; height: auto; display: block; margin: auto;"/>
+
 ## Features
 - Flat map mesh and spherical globe mesh
 - Mesh texturing with Earth texture
