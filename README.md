@@ -24,10 +24,6 @@ npm install
 npm run start
 ```
 
-## Credit
-
-This game uses royalty-free sound effects from [ZapSplat](https://www.zapsplat.com/).
-
 ## Credits
 - Earthquake data from http://earthquake.usgs.gov/research/data/centennial.php, [U.S. Geological Survey](http://www.usgs.gov/laws/info_policies.html)
 - Photo by [Jeremy Perkins on Unsplash](https://unsplash.com/photos/uhjiu8FjnsQ)
